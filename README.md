@@ -1,4 +1,3 @@
-# pancakeswap-prediction-winner
 # [HOT🔥UPDATE V2] 🎰 PancakeSwap is afraid of this! This bot is a casino winner
 
 This bot wins almost every 5 minute BNB-USD option on PancakeSwap Prediction.
